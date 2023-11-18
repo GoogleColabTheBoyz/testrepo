@@ -1,0 +1,7 @@
+transformers
+Pillow
+streamlit
+soundfile
+torch
+torchvision
+torchaudio
